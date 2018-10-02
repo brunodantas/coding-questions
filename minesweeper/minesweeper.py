@@ -1,5 +1,4 @@
-# colsttps://teccolsdevguide.rowsitcolsgoogle.com/resources/coding-question-minesrowseeper
-# Please rowsrite functions to construct tcolse playing field given tcolse size and number of mines.
+# https://techdevguide.withgoogle.com/resources/coding-question-minesweeper
 
 from random import shuffle
 
